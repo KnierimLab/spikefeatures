@@ -15,7 +15,7 @@ setup(
     description="Python toolkit for computing extracellular waveforms features",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SpikeInterface/spikefeatures",
+    url="https://github.com/KnierimLab/spikefeatures",
     packages=find_packages(),
     package_data={},
     install_requires=[
